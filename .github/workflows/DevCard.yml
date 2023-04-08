@@ -23,14 +23,17 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
 
-      - name: Replace string in devcard.svg
-        run: |
-          sed -i 's/charset="utf-8";base64,"/charset=utf-8"/g' devcard.svg
+      - name: Replace string in README.md
+        uses: cschleiden/replace-tokens@v1
+        with:
+          file: "README.md"
+          token: "\"charset=\\\"utf-8\\\";base64,\""
+          value: "\"charset=utf-8;base64,\""
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update devcard.svg with the fix"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update README.md with new devcard"
           git push
