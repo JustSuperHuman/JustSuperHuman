@@ -1,22 +1,39 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**JustSuperHuman/JustSuperHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://twitter.com/justsuperhumn">
+    <img
+      src="https://img.shields.io/twitter/follow/justsuperhumn?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/james-greene/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://api.daily.dev/get?r=justsuperhuman" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/JustSuperHuman/JustSuperHuman/blob/main/devcard.svg"
+    />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## I am Nandan Kumar
+
+You can add a small description about yourself. 
+
+![Metrics](https://raw.githubusercontent.com/<Your github username>/JustSuperHuman/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/achievements.svg)
 
 - 🔭 I’m currently working on SuperHuman.FIT
 - 🌱 I’m currently learning React
 - 📫 How to reach me: 
        -> Telegram: <a href="https://t.me/justsuperhuman">JustSuperHuman</a>
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/JustSuperHuman/JustSuperHuman/blob/main/devcard.svg" width="400" alt="James Greene's Dev Card"/></a>
