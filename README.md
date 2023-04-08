@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on SuperHuman.FIT
+- 🌱 I’m currently learning React
+
+<a href="https://app.daily.dev/justsuperhuman"><img src="https://api.daily.dev/devcards/78d7c5f4d9be466db5f9b2e07251f26c.png?r=hib" width="400" alt="James Gregory Greene's Dev Card"/></a>
