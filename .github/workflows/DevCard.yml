@@ -24,11 +24,11 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
 
       - name: Replace string in README.md
-        uses: cschleiden/replace-tokens@v1
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
-          file: "README.md"
-          token: "\"charset=\\\"utf-8\\\";base64,\""
-          value: "\"charset=utf-8;base64,\""
+          find: 'charset="utf-8";base64,"'
+          replace: 'charset=utf-8;base64,"'
+          include: 'devcard.svg'
 
       - name: Commit and push changes
         run: |
