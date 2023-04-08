@@ -15,20 +15,22 @@ jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-
+        
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          path: main
+        
       - name: Replace string in README.md
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: 'charset="utf-8";base64,"'
           replace: 'charset=utf-8;base64,"'
-          include: 'devcard.svg'
+          include: '*devcard*'
 
       - name: Commit and push changes
         run: |
