@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
        -> Telegram: <a href="https://t.me/justsuperhuman">JustSuperHuman</a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/JustSuperHuman/JustSuperHuman/blob/master/devcard.svg" width="400" alt="James Greene's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/JustSuperHuman/JustSuperHuman/blob/main/devcard.svg" width="400" alt="James Greene's Dev Card"/></a>
