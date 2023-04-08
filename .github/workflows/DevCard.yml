@@ -22,8 +22,6 @@ jobs:
         
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          path: main
         
       - name: Replace string in README.md
         uses: jacobtomlinson/gha-find-replace@v3
