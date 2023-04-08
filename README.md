@@ -29,11 +29,10 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: 
        -> Telegram: <a href="https://t.me/justsuperhuman">JustSuperHuman</a>
-
-
+<!--
 ![Metrics](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/JustSuperHuman/JustSuperHuman/github-metrics/achievements.svg)
-
+-->
 
